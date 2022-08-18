@@ -1,6 +1,9 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | [Nightfood](#night-food)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Nightfood](#night-food) | [Beverage](#beverages)
+
+
+## Drive-Thru
 
 # KU Cafe Menu
 
@@ -16,6 +19,12 @@ Section1 | Section2 | Section3 | [Nightfood](#night-food)
 
 ## Dinner
 
+| items | Price(Baht) |
+|:-------|-------|
+| Egg fried rice | 50 |
+| Thai red rurry | 100 |
+| Tom Yum Kung | 120 |
+| Salad | 60 |
 
 ## Night Food
 
@@ -32,18 +41,6 @@ Section1 | Section2 | Section3 | [Nightfood](#night-food)
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
-
-
-## Drive-Thru
-
-### Dinning
-
-| items | Price(Baht) |
-|:-------|-------|
-| Egg fried rice | 50 |
-| Thai red rurry | 100 |
-| Tom Yum Kung | 120 |
-| Salad | 60 |
 
 ## About Us
 
