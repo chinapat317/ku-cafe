@@ -62,7 +62,7 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Pichaiyuth | Beverages | @inwpolol |
+| Pichaiyuth Uraisay | Beverages | @inwpolol |
 | Napon Linlawan| Breakfast, Lunch | @napon2545 |
 | Tanakorn Kullapatchawarit | nightfood | caneledip |
 | Chinapat Rattanapirom | Dinner | chinapat317 |
