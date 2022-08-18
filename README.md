@@ -2,21 +2,26 @@
 
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Nightfood](#night-food) | [Beverage](#beverages)
 
-    
-=======
-# KU Cafe Menu
+# Drive-Thru
 
+## KU Cafe Menu
 
-## Breakfast
+### Breakfast
 
     Item                           Price
     Fried Grasshoppers (terrible)  -10
     (use proper Markdown formatting, not literal text like this)
 
-## Lunch 
+### Lunch 
+
+| Item                            | Price(Baht)  |
+|:------------------------------: |:----------:  |
+| American Fried Rice             | 80           |
+| Papaya Salad                    | 70           |
+| Steamed chicken with rice       | 60           |
 
 
-## Dinner
+### Dinner
 
 | items | Price(Baht) |
 |:-------|-------|
@@ -25,7 +30,7 @@
 | Tom Yum Kung | 120 |
 | Salad | 60 |
 
-## Night Food
+### Night Food
 
 | Item                 | Price |
 |:-------------------------|----------|
@@ -34,7 +39,7 @@
 | French fries              | 32       |
 | BBQ Wings              | 25       |
 
-## Beverages
+### Beverages
 
     |           Beverage Menu           |
     |:----------------------------------|
@@ -58,10 +63,13 @@
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
-## About Us
+=======
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Pichaiyuth | Beverages | @inwpolol |
+| Napon Linlawan| Breakfast, Lunch | @napon2545 |
 | Tanakorn Kullapatchawarit | nightfood | caneledip |
+| Chinapat Rattanapirom | Dinner | chinapat317 |
+
 
