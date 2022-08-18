@@ -1,10 +1,7 @@
 # KU Cafe
 
-<<<<<<< HEAD
-[Beverages](#beverages)
-=======
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Nightfood](#night-food) | [Beverage](#beverages)
->>>>>>> master
+
     
 =======
 # KU Cafe Menu
@@ -60,15 +57,11 @@
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
->>>>>>> master
 
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-<<<<<<< HEAD
 | Pichaiyuth | Beverages | @inwpolol |
-=======
 | Tanakorn Kullapatchawarit | nightfood | caneledip |
->>>>>>> master
 
