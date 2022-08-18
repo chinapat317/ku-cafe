@@ -3,9 +3,11 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+    | Item                | Price(Baht)  |
+    |:----------------:   |:----------:  |
+    | American Breakfast  | 120          |
+    | Club Sanwich        | 90           |
+    | Mini Breakfast      | 100          |
 
 ## Lunch 
 
