@@ -11,6 +11,11 @@
 
 ## Lunch 
 
+| Item                            | Price(Baht)  |
+|:------------------------------: |:----------:  |
+| American Fried Rice             | 80           |
+| Papaya Salad                    | 70           |
+| Steamed chicken with rice       | 60           |
 
 ## Dinner
 
