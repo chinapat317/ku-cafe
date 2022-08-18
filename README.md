@@ -38,8 +38,25 @@
 | Corndog              | 35       |
 | French fries              | 32       |
 | BBQ Wings              | 25       |
+
 ### Beverages
 
+    |           Beverage Menu           |
+    |:----------------------------------|
+    | Drink                    price B. |
+    | soda                        35    |
+    | coca cola                   32    |
+    | 7-up                        32    |
+    |                                   |
+    | Milk                     price B. |
+    | thai tea                    50    |
+    | milk tea                    50    |
+    | coco                        50    |
+    |                                   |
+    | Fruit                    price B. |
+    | orange juice                40    |
+    | water melon juice           40    |
+    | mango juiec                 40    |
 
 
 ---
@@ -48,10 +65,9 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
 =======
 
-## About Us
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Pichaiyuth | Beverages | @inwpolol |
 | Napon Linlawan| Breakfast, Lunch | @napon2545 |
 | Tanakorn Kullapatchawarit | nightfood | caneledip |
 | Chinapat Rattanapirom | Dinner | chinapat317 |
