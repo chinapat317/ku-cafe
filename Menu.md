@@ -3,19 +3,33 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+    | Item                | Price(Baht)  |
+    |:----------------:   |:----------:  |
+    | American Breakfast  | 120          |
+    | Club Sanwich        | 90           |
+    | Mini Breakfast      | 100          |
 
 ## Lunch 
 
 
 ## Dinner
 
+    items | Price(Baht)
+    ------- | -------
+    Egg fried rice | 50
+    Thai red rurry | 100
+    Tom Yum Kung | 120
+    Salad | 60
+
 
 ## Night Food
 
-
+| Item                 | Price |
+|:-------------------------|----------|
+| Grilled Squid               | 25    |
+| Corndog              | 35       |
+| French fries              | 32       |
+| BBQ Wings              | 25       |
 ## Beverages
 
     |           Beverage Menu           |
