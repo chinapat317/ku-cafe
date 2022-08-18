@@ -1,10 +1,38 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
+Section1 | Section2 | Section3 | [Nightfood](#night-food)
 
-**TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
-You learned the Markdown to do this in the `git-commands` assignments.    
-**TODO**: Remove all the TODO lines, of course.
+# KU Cafe Menu
+
+
+## Breakfast
+
+    Item                           Price
+    Fried Grasshoppers (terrible)  -10
+    (use proper Markdown formatting, not literal text like this)
+
+## Lunch 
+
+
+## Dinner
+
+
+## Night Food
+
+| Item                 | Price |
+|:-------------------------|----------|
+| Grilled Squid               | 25    |
+| Corndog              | 35       |
+| French fries              | 32       |
+| BBQ Wings              | 25       |
+## Beverages
+
+
+
+---
+
+We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+
 
 ## Drive-Thru
 
@@ -28,5 +56,5 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Tanakorn Kullapatchawarit | nightfood | caneledip |
 
