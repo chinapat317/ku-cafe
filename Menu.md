@@ -13,7 +13,7 @@
 ## Dinner
 
     |items|Price(Baht)|
-    |:-------|-------:|
+    |:-------:|:-------:|
     |Egg fried rice|50|
     |Thai red rurry|100|
     |Tom Yum Kung|120|
