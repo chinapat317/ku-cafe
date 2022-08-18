@@ -15,7 +15,12 @@
 
 ## Night Food
 
-
+| Item                 | Price |
+|:-------------------------|----------|
+| Grilled Squid               | 25    |
+| Corndog              | 35       |
+| French fries              | 32       |
+| BBQ Wings              | 25       |
 ## Beverages
 
 
