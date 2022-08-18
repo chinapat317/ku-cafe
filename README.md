@@ -55,6 +55,6 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 | Your name | Your menu | @your_github_id |
 | Napon Linlawan| Breakfast, Lunch | @napon2545 |
 | Tanakorn Kullapatchawarit | nightfood | caneledip |
-| Chinapat Rattanapirom | Dinning | chinapat317 |
+| Chinapat Rattanapirom | Dinner | chinapat317 |
 
 
