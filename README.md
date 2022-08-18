@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Beverages](#beverage)
+[Beverages](#beverages)
 
 
 ## Beverages
