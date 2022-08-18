@@ -3,11 +3,11 @@
 
 ## Breakfast
 
-    | Item                | Price(Baht)  |
-    |:----------------:   |:----------:  |
-    | American Breakfast  | 120          |
-    | Club Sanwich        | 90           |
-    | Mini Breakfast      | 100          |
+| Item                | Price(Baht)  |
+|:----------------:   |:----------:  |
+| American Breakfast  | 120          |
+| Club Sanwich        | 90           |
+| Mini Breakfast      | 100          |
 
 ## Lunch 
 
@@ -35,7 +35,9 @@
 | Corndog              | 35       |
 | French fries              | 32       |
 | BBQ Wings              | 25       |
+
 ## Beverages
+
 
     |           Beverage Menu           |
     |:----------------------------------|

@@ -8,9 +8,11 @@
 
 ### Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item                | Price(Baht)  |
+|:----------------:   |:----------:  |
+| American Breakfast  | 120          |
+| Club Sanwich        | 90           |
+| Mini Breakfast      | 100          |
 
 ### Lunch 
 
@@ -19,7 +21,6 @@
 | American Fried Rice             | 80           |
 | Papaya Salad                    | 70           |
 | Steamed chicken with rice       | 60           |
-
 
 ### Dinner
 
@@ -58,12 +59,10 @@
     | water melon juice           40    |
     | mango juiec                 40    |
 
-
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 
-=======
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
