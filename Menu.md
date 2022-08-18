@@ -3,12 +3,17 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+
+
+
 
 ## Lunch 
 
+    | Item                            | Price(Baht)  |
+    |:------------------------------: |:----------:  |
+    | American Fried Rice             | 80           |
+    | Papaya Salad                    | 70           |
+    | Steamed chicken with rice       | 60           |
 
 ## Dinner
 
