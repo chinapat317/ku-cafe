@@ -53,7 +53,7 @@
 | Fruit                  |           |
 | orange juice           |     40    |
 | water melon juice      |     40    |
-| mango juiec            |     40    |
+| mango juice            |     40    |
 
 ---
 
