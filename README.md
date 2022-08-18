@@ -10,12 +10,12 @@ You learned the Markdown to do this in the `git-commands` assignments.
 
 ### Dinning
 
-    items | Price(Baht)
-    ------- | -------
-    Egg fried rice | 50
-    Thai red rurry | 100
-    Tom Yum Kung | 120
-    Salad | 60
+    | items | Price(Baht) |
+    |:------- | ------- |
+    | Egg fried rice | 50 |
+    | Thai red rurry | 100 |
+    | Tom Yum Kung | 120 |
+    | Salad | 60 |
 
 ## About Us
 
