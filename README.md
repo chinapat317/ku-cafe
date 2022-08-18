@@ -2,8 +2,6 @@
 
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Nightfood](#night-food) | [Beverage](#beverages)
 
-# Drive-Thru
-
 ## KU Cafe Menu
 
 ### Breakfast
@@ -42,22 +40,20 @@
 
 ### Beverages
 
-    |           Beverage Menu           |
-    |:----------------------------------|
-    | Drink                    price B. |
-    | soda                        35    |
-    | coca cola                   32    |
-    | 7-up                        32    |
-    |                                   |
-    | Milk                     price B. |
-    | thai tea                    50    |
-    | milk tea                    50    |
-    | coco                        50    |
-    |                                   |
-    | Fruit                    price B. |
-    | orange juice                40    |
-    | water melon juice           40    |
-    | mango juiec                 40    |
+| Item                      | Price |
+|:-----------------------|----------|
+| Drink                  |           |
+| soda                   |     20    |
+| coca cola              |     30    |
+| 7-up                   |     30    |
+| Milk                   |           |
+| thai tea               |     50    |
+| milk tea               |     50    |
+| coco                   |     50    |
+| Fruit                  |           |
+| orange juice           |     40    |
+| water melon juice      |     40    |
+| mango juiec            |     40    |
 
 ---
 
