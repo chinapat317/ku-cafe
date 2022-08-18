@@ -3,9 +3,11 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+    | Item                | Price(Baht)  |
+    |:----------------:   |:----------:  |
+    | American Breakfast  | 120          |
+    | Club Sanwich        | 90           |
+    | Mini Breakfast      | 100          |
 
 ## Lunch 
 
@@ -22,10 +24,31 @@
 
 ## Night Food
 
-
+| Item                 | Price |
+|:-------------------------|----------|
+| Grilled Squid               | 25    |
+| Corndog              | 35       |
+| French fries              | 32       |
+| BBQ Wings              | 25       |
 ## Beverages
 
-
+    |           Beverage Menu           |
+    |:----------------------------------|
+    | Drink                    price B. |
+    | soda                        35    |
+    | coca cola                   32    |
+    | 7-up                        32    |
+    |                                   |
+    | Milk                     price B. |
+    | thai tea                    50    |
+    | milk tea                    50    |
+    | coco                        50    |
+    |                                   |
+    | Fruit                    price B. |
+    | orange juice                40    |
+    | water melon juice           40    |
+    | mango juiec                 40    |
+    
 
 ---
 
