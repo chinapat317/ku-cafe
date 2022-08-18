@@ -1,16 +1,18 @@
 # KU Cafe
 
-Section1 | Section2 | [Lunch](#lunch) | [Nightfood](#night-food)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Nightfood](#night-food) | [Beverage](#beverages)
 
-# KU Cafe Menu
+# Drive-Thru
 
-## Breakfast
+## KU Cafe Menu
+
+### Breakfast
 
     Item                           Price
     Fried Grasshoppers (terrible)  -10
     (use proper Markdown formatting, not literal text like this)
 
-## Lunch 
+### Lunch 
 
 | Item                            | Price(Baht)  |
 |:------------------------------: |:----------:  |
@@ -19,29 +21,7 @@ Section1 | Section2 | [Lunch](#lunch) | [Nightfood](#night-food)
 | Steamed chicken with rice       | 60           |
 
 
-## Dinner
-
-
-## Night Food
-
-| Item                 | Price |
-|:-------------------------|----------|
-| Grilled Squid               | 25    |
-| Corndog              | 35       |
-| French fries              | 32       |
-| BBQ Wings              | 25       |
-## Beverages
-
-
-
----
-
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
-
-
-## Drive-Thru
-
-### Dinning
+### Dinner
 
 | items | Price(Baht) |
 |:-------|-------|
@@ -50,6 +30,23 @@ We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
 | Tom Yum Kung | 120 |
 | Salad | 60 |
 
+### Night Food
+
+| Item                 | Price |
+|:-------------------------|----------|
+| Grilled Squid               | 25    |
+| Corndog              | 35       |
+| French fries              | 32       |
+| BBQ Wings              | 25       |
+### Beverages
+
+
+
+---
+
+We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+
+=======
 
 ## About Us
 
