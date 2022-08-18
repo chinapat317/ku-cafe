@@ -2,8 +2,6 @@
 
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Nightfood](#night-food) | [Beverage](#beverages)
 
-# Drive-Thru
-
 ## KU Cafe Menu
 
 ### Breakfast
@@ -42,8 +40,6 @@
 
 ### Beverages
 
-|           Beverage Menu           |
-|                                   |
 | Item                      | Price |
 |:-----------------------|----------|
 | Drink                  |           |
@@ -54,7 +50,6 @@
 | thai tea               |     50    |
 | milk tea               |     50    |
 | coco                   |     50    |
-|                        |           |
 | Fruit                  |           |
 | orange juice           |     40    |
 | water melon juice      |     40    |
